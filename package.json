@@ -1,0 +1,15 @@
+{
+  "name": "express-async-await",
+  "version": "1.0.0",
+  "description": "a demo of wrapping handler as async function like koa",
+  "repository": "https://github.com/hypercubex/express-async-await",
+  "author": "Matthew Lam <matthewy28@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "dependencies": {
+    "express": "^4.16.2"
+  },
+  "devDependencies": {}
+}
